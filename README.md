@@ -1,3 +1,3 @@
-- A Simple Engine Game was developed with SDL3, Vulkan, C++ 20 upper.
+- A Simple Engine Game was developed with SDL3, Vulkan, C++ 20 or upper.
 - Follow ESC, SOLID, RAII( Like Vulkan be)
-- Be support instead dependency, you can set this engine in your prj, use it even add your own logic game 
+- Be support instead dependency, you can set this engine in your prj, use it and add your own logic game 
