@@ -1,0 +1,3 @@
+- A Simple Engine Game was developed with SDl3, Vulkan, C++ 20 upper.
+- Follow ESC, SOLID, RAII( Like Vulkan be)
+- Be support instead dependency, you can set this engine in your prj, use it even add your own logic game 
